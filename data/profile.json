@@ -1,0 +1,61 @@
+{
+    "name": "Alexandra Parra",
+    "photo": "",
+    "job": "Junior developer",
+    "location": "Brasília - BR",
+    "phone": "(61) 99999-9999",
+    "email": "alexandra@gmail.com",
+    "skills": {
+      "hardSkills": [
+        {
+          "name": "Java",
+          "logo": ""
+        }
+      ],
+      "softSkills": [
+        "Trabalho em equipe",
+        "Aprendizado contínuo",
+        "Flexibilidade",
+        "Organização"
+      ]
+    },
+    "languages": [
+      "Português BR (fluente)",
+      "Espanhol (nativo)",
+      "Inglês (intermediário)"
+    ],
+    "portfolio": [
+      {
+        "name": "Criação de uma Pokedex",
+        "url": "https://github.com/AlexandraParra/Pokedex-js",
+        "github": true
+      },
+      {
+        "name": "Clone do Site da HBO Max",
+        "url": "https://github.com/AlexandraParra/hbomax",
+        "github": true
+      },
+      {
+        "name": "RESTful API - Desenvolvimento Java com IA.",
+        "url": "https://github.com/AlexandraParra/bootcamp-java-ia",
+        "github": true
+      },
+      {
+        "name": "Workshop - Desenvolvimento JavaFX.",
+        "url": "https://github.com/AlexandraParra/workshop-javaFX-jdbc-cursoNelioAlves/tree/master",
+        "github": true
+      }
+    ],
+    "professionalExperience": [
+      {
+        "name": "Trainee tecnologia fullstack / Websis",
+        "period": "Jun 2023 - Sep 2023",
+        "description": "Desenvolvimento com React.js, Angular e Spring Boot, integração de APIs, testes, Docker, deploys no GitLab e documentação com Swagger."
+      },
+      {
+        "name": "Estagiária fullstack/ Websis",
+        "period": "Dez 2022 - Jun 2023",
+        "description": "Desenvolvimento com React.js e Spring Boot, testes, manutenção e participação em reuniões."
+      }
+    ]
+  }
