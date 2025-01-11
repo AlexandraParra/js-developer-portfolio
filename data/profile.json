@@ -9,8 +9,25 @@
       "hardSkills": [
         {
           "name": "Java",
-          "logo": ""
+          "logo": "https://raw.githubusercontent.com/AlexandraParra/js-developer-portfolio/refs/heads/main/data/imgs/java.png"
+        },
+        {
+          "name": "React",
+          "logo": "https://raw.githubusercontent.com/AlexandraParra/js-developer-portfolio/refs/heads/main/data/imgs/react.png"
+        },
+        {
+          "name": "Angular",
+          "logo": "https://raw.githubusercontent.com/AlexandraParra/js-developer-portfolio/refs/heads/main/data/imgs/angular.png"
+        },
+        {
+          "name": "Postgresql",
+          "logo": "https://raw.githubusercontent.com/AlexandraParra/js-developer-portfolio/refs/heads/main/data/imgs/postgresql.png"
+        },
+        {
+          "name": "Docker",
+          "logo": "https://raw.githubusercontent.com/AlexandraParra/js-developer-portfolio/refs/heads/main/data/imgs/docker.png"
         }
+
       ],
       "softSkills": [
         "Trabalho em equipe",
