@@ -3,8 +3,20 @@
     "photo": "https://avatars.githubusercontent.com/u/96145566?s=400&u=fa3d6121d4eb2ffeb3c40486ee750f093f1d9712&v=4",
     "job": "Junior developer",
     "location": "Brasília - DF",
-    "phone": "(61) 99999-9999",
-    "email": "alexandra@gmail.com",
+    "phone": "+55 61 99825-3323",
+    "email": "alexandraparrarz@gmail.com",
+    "linkedin":"https://www.linkedin.com/in/alexandrampr/",
+    "github":"https://github.com/AlexandraParra",
+    "education": [
+      {
+        "name": "Análise e desenvolvimento de sistemas / UDF - Brasil",
+        "period": "2023"
+      },
+      {
+        "name": "Nutrição / ULA - Venezuela",
+        "period": "2017"
+      }
+    ],
     "skills": {
       "hardSkills": [
         {
@@ -38,8 +50,8 @@
       ]
     },
     "languages": [
-      "Português BR (fluente)",
       "Espanhol (nativo)",
+      "Português BR (fluente)",
       "Inglês (intermediário)"
     ],
     "portfolio": [
@@ -54,12 +66,12 @@
         "github": true
       },
       {
-        "name": "RESTful API - Desenvolvimento Java com IA.",
+        "name": "RESTful API - Java com IA.",
         "url": "https://github.com/AlexandraParra/bootcamp-java-ia",
         "github": true
       },
       {
-        "name": "Workshop - Desenvolvimento JavaFX.",
+        "name": "Workshop - JavaFX.",
         "url": "https://github.com/AlexandraParra/workshop-javaFX-jdbc-cursoNelioAlves/tree/master",
         "github": true
       }
