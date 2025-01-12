@@ -22,12 +22,12 @@
     width: 100%;
 }
 
-.information p{
+.information p , .information a{
     width: inherit;
     display: flex;
     flex-direction: row;
     align-items: center;
-    overflow: auto;
+    overflow: hidden;
     margin: .5rem;
     font-size: 1.25rem;
 }
