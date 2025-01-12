@@ -56,13 +56,15 @@
     ],
     "portfolio": [
       {
-        "name": "Criação de uma Pokedex",
-        "url": "https://github.com/AlexandraParra/Pokedex-js",
+        "name": "Clone do Site da HBO Max",
+        "site": "https://alexandraparra.github.io/hbomax/index.html",
+        "url": "https://github.com/AlexandraParra/hbomax",
         "github": true
       },
       {
-        "name": "Clone do Site da HBO Max",
-        "url": "https://github.com/AlexandraParra/hbomax",
+        "name": "Pokedex, consumindo API Rest",
+        "site": "https://alexandraparra.github.io/Pokedex-js/",
+        "url": "https://github.com/AlexandraParra/Pokedex-js",
         "github": true
       },
       {
