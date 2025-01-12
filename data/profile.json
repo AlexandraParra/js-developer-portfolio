@@ -24,6 +24,10 @@
           "logo": "https://raw.githubusercontent.com/AlexandraParra/js-developer-portfolio/refs/heads/main/data/imgs/java.png"
         },
         {
+          "name": "Spring Boot",
+          "logo": "https://raw.githubusercontent.com/AlexandraParra/js-developer-portfolio/refs/heads/main/data/imgs/spring-boot.png"
+        },
+        {
           "name": "React",
           "logo": "https://raw.githubusercontent.com/AlexandraParra/js-developer-portfolio/refs/heads/main/data/imgs/react.png"
         },
