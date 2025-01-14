@@ -93,5 +93,91 @@
         "period": "Dez 2022 - Jun 2023",
         "description": "Desenvolvimento com React.js e Spring Boot, testes, manutenção e participação em reuniões."
       }
+    ],
+    "certificates": [
+      {
+        "name": "Introdução à Ciência de Dados",
+        "url": "https://www.linkedin.com/in/alexandrampr/overlay/1733245845716/single-media-viewer/?profileId=ACoAADeqaCEBu4gvG5I3Wk3cdbIL1foEtut0KHc"
+      },
+      {
+        "name": "Formação Python Fundamentals",
+        "url": "https://hermes.dio.me/certificates/DQXPZMUF.pdf"
+      },
+      {
+        "name": "Claro - Java com Spring Boot",
+        "url": "https://hermes.dio.me/certificates/CERA8AQ7.pdf"
+      },
+      {
+        "name": "Formação Docker Fundamentals",
+        "url": "https://hermes.dio.me/certificates/ECEARQG4.pdf"
+      },
+      {
+        "name": "Formação Linux Fundamentals",
+        "url": "https://hermes.dio.me/certificates/V0TXF3KO.pdf"
+      },
+      {
+        "name": "Formação SQL Database Specialist",
+        "url": "https://hermes.dio.me/certificates/E1KSFHZO.pdf"
+      },
+      {
+        "name": "Formação Github Certification",
+        "url": "https://hermes.dio.me/certificates/IIT5E9D7.pdf"
+      },
+      {
+        "name": "Formação Fundamentos de Inteligência Artificial",
+        "url": "https://hermes.dio.me/certificates/GRZ1GTBP.pdf"
+      },
+      {
+        "name": "Desenvolvimento Java com IA",
+        "url": "https://hermes.dio.me/certificates/SQW8VSX2.pdf"
+      },
+      {
+        "name": "Desenvolvimento Java com Cloud AWS",
+        "url": "https://hermes.dio.me/certificates/1D01487A.pdf"
+      },
+      {
+        "name": "Spring Boot",
+        "url": "https://hermes.dio.me/certificates/BDD878D7.pdf"
+      },
+      {
+        "name": "Palestrante CPBSB5",
+        "url": "https://www.linkedin.com/in/alexandrampr/details/certifications/1733243755485/single-media-viewer/?profileId=ACoAADeqaCEBu4gvG5I3Wk3cdbIL1foEtut0KHc"
+      },
+      {
+        "name": "Fundamentos de TI: Hardware e Software",
+        "url": "https://lms.ev.org.br/mpls/Web/Lms/Student/PrintCertificateDownload.ashx?uid=7761015&p=H%252b2jOZc0Hq%252fw1%252bDK2KT507AA0IzsYULv"
+      },
+      {
+        "name": "Angular",
+        "url": "https://www.udemy.com/certificate/UC-318d5d88-f406-42ad-8b9e-74f55565c273/"
+      },
+      {
+        "name": "Potência Tech powered by iFood",
+        "url": "https://hermes.dio.me/certificates/85818D21.pdf"
+      },
+      {
+        "name": "Microsserviços Java com Spring Boot e Spring Cloud",
+        "url": "https://www.udemy.com/certificate/UC-e375ed2e-0795-413d-807f-a5351081f450/"
+      },
+      {
+        "name": "GFT Start Woman Java",
+        "url": "https://hermes.dio.me/certificates/0A87E1CD.pdf"
+      },
+      {
+        "name": "Java programação orientada a objetos",
+        "url": "https://www.udemy.com/certificate/UC-ea85f396-6e53-4d23-944e-2b0499c080bb/"
+      },
+      {
+        "name": "Python - básico",
+        "url": "https://lms.ev.org.br/mpls/Web/Lms/Student/PrintCertificateDownload.ashx?uid=7761015&p=H%252b2jOZc0Hq%252bf%252bUP5Qysyg%252bRyQ0IxcdCw"
+      },
+      {
+        "name": "Lógica de programação",
+        "url": "https://lms.ev.org.br/mpls/Web/Lms/Student/PrintCertificateDownload.ashx?uid=7761015&p=H%252b2jOZc0Hq%252frIAB%252f54aPrwNhmZ4y3iUp"
+      },
+      {
+        "name": "Algoritmo",
+        "url": "https://www.linkedin.com/in/alexandrampr/details/certifications/1733240394102/single-media-viewer?type=DOCUMENT&profileId=ACoAADeqaCEBu4gvG5I3Wk3cdbIL1foEtut0KHc"
+      }
     ]
   }
