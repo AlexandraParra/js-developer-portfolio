@@ -97,7 +97,7 @@
     "certificates": [
       {
         "name": "Introdução à Ciência de Dados",
-        "url": "https://www.linkedin.com/in/alexandrampr/overlay/1733245845716/single-media-viewer/?profileId=ACoAADeqaCEBu4gvG5I3Wk3cdbIL1foEtut0KHc"
+        "url": "https://raw.githubusercontent.com/AlexandraParra/js-developer-portfolio/refs/heads/main/data/imgs/certificates/ciencia-dados.png"
       },
       {
         "name": "Formação Python Fundamentals",
@@ -141,7 +141,7 @@
       },
       {
         "name": "Palestrante CPBSB5",
-        "url": "https://www.linkedin.com/in/alexandrampr/details/certifications/1733243755485/single-media-viewer/?profileId=ACoAADeqaCEBu4gvG5I3Wk3cdbIL1foEtut0KHc"
+        "url": "https://raw.githubusercontent.com/AlexandraParra/js-developer-portfolio/refs/heads/main/data/imgs/certificates/CPBSB5.png"
       },
       {
         "name": "Fundamentos de TI: Hardware e Software",
@@ -177,7 +177,7 @@
       },
       {
         "name": "Algoritmo",
-        "url": "https://www.linkedin.com/in/alexandrampr/details/certifications/1733240394102/single-media-viewer?type=DOCUMENT&profileId=ACoAADeqaCEBu4gvG5I3Wk3cdbIL1foEtut0KHc"
+        "url": "https://raw.githubusercontent.com/AlexandraParra/js-developer-portfolio/refs/heads/main/data/imgs/certificates/algoritmo.png"
       }
     ]
   }
